@@ -1,0 +1,127 @@
+body{
+    background-image: url(imgenesFresita/fondoBananas.jpg);
+}
+
+#imgLogo{
+    max-width: 75px;
+    border-radius: 25px;
+}
+
+
+span{
+    font-family: cursive;
+}
+
+
+.redes{
+    background: white;
+}
+
+
+.fotografias{
+    max-width: 1350px;
+}
+
+.carousel-inner{
+    max-height: 300px;
+}
+
+
+p{
+    padding: 10px;
+    padding-right: 20px;
+}
+
+
+.nosotroscss{
+    background-color: rgba(255, 255, 255, 0.4);
+    border: 1px solid black;
+   
+}
+
+
+.titulos{
+    max-width: 300px;
+    padding: 10px;
+     
+}
+
+
+h2{ 
+    display: flex;
+    justify-content: center;
+    padding: 35px;
+    font-family: fantasy;
+
+}
+
+
+.nosotros{
+    padding-left: 20px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.mision{
+    background-color: rgba(44, 47, 42, 0.6);
+    padding: 10px;
+    padding-left: 20px;
+    color: rgb(255, 255, 255);
+}
+
+.vista{
+    background-color: rgba(44, 47, 42, 0.6);
+    padding: 10px;
+    padding-left: 20px;
+    color: aliceblue;
+}
+
+.title{
+    display: flex;
+    justify-content: center;
+    font-family: fantasy;
+}
+
+footer{
+    display: flex;
+    justify-content: center;
+}
+
+
+
+
+/* parte del menu en css*/ 
+
+
+span{
+    font-family: cursive;
+}
+
+.targetas{
+    padding: 15px;
+    display: flex;
+    justify-content: space-around;
+    border-radius: 20px
+}
+
+
+.menucompleto{
+    display: flex;
+justify-content: center;
+color: blanchedalmond;
+}
+
+
+#imgLogo{
+    max-width: 75px;
+    border-radius: 25px;
+}
+
+.card{
+    background-image: url(/frontend/imagenes/fondoTargetas.jpg);
+}
+
+
+footer{display: flex;
+    justify-content: center;
+}
