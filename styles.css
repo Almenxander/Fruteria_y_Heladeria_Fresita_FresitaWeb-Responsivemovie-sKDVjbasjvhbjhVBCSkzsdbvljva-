@@ -89,7 +89,6 @@ footer{
 
 
 
-
 /* parte del menu en css*/ 
 
 
@@ -106,7 +105,7 @@ span{
 
 
 .menucompleto{
-    display: flex;
+ display: flex;
 justify-content: center;
 color: blanchedalmond;
 }
@@ -122,7 +121,7 @@ color: blanchedalmond;
 }
 
 .card{
-    background-image: url(/Fruteria_y_Heladeria_Fresita_FresitaWeb-Responsivemovie-sKDVjbasjvhbjhVBCSkzsdbvljva-/imgenesFresita/fondoTargetas.jpg);
+    background-image: url(/Fruteria_y_Heladeria_Fresita_FresitaWeb-Responsivemovie-sKDVjbasjvhbjhVBCSkzsdbvljva-/imgenesFresita/PublicidadFresita.jpg);
 }
 
 
