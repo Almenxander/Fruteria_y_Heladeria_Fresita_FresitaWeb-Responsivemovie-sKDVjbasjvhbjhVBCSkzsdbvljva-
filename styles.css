@@ -100,7 +100,7 @@ span{
     padding: 15px;
     display: flex;
     justify-content: space-around;
-    border-radius: 20px
+    border-radius: 20px; 
 }
 
 
@@ -121,6 +121,7 @@ color: blanchedalmond;
 }
 
 .card{
+    display: flex;
     background-image: url(/Fruteria_y_Heladeria_Fresita_FresitaWeb-Responsivemovie-sKDVjbasjvhbjhVBCSkzsdbvljva-/imgenesFresita/PublicidadFresita.jpg);
 }
 
